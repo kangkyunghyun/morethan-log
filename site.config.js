@@ -10,17 +10,17 @@ const CONFIG = {
     github: "kangkyunghyun",
     instagram: "",
   },
-  projects: [
-    {
-      name: ``,
-      href: "",
-    },
-  ],
+//   projects: [
+//     {
+//       name: ``,
+//       href: "",
+//     },
+//   ],
   // blog setting (required)
   blog: {
     title: "kangkyunghyun",
     description: "welcome!",
-    scheme: "light", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
