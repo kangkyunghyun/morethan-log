@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "kangkyunghyun",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "Kyunghyung Kang",
+    // image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
-    bio: "I develop everything using Spring Boot.",
+    bio: "기록",
     email: "kangkyunghyun.dev@gmail.com",
     linkedin: "kangkyunghyun",
     github: "kangkyunghyun",
