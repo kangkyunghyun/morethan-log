@@ -56,7 +56,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "https://github.com/kangkyunghyun/morethan-log",
+      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "kangkyunghyun/morethan-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
