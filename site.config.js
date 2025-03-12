@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `BOJ Solutions`,
+      href: "https://github.com/kangkyunghyun/baekjoon-online-judge",
     },
   ],
   // blog setting (required)
