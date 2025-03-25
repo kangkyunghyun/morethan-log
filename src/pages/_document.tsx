@@ -36,7 +36,7 @@ class MyDocument extends Document {
               />
             </>
           )}
-		  <meta name="google-adsense-account" content="ca-pub-7325562831576840"></meta>
+		  <meta name="google-adsense-account" content="ca-pub-7693532960036409"></meta>
         </Head>
         <body>
           <Main />
